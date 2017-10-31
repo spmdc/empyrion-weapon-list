@@ -1,0 +1,8 @@
+---
+items:
+  - name: rifle
+    damage: 70
+    magazine: 20
+  - name: pistol
+    damage: 10
+    magazine: 10
