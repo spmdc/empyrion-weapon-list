@@ -1,0 +1,11 @@
+* {
+  margin: 0p;
+  padding: 0p;
+}
+
+.centered { text-align: center; }
+
+.centered-table {
+   margin-left: auto;
+   margin-right: auto;
+}
